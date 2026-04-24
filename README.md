@@ -10,7 +10,7 @@ healthcare datasets that leads to inaccurate analysis if not handled properly.
 
 ## Missing Values Visualization
 
-![Missing Values Chart](missing_values_chart.png)
+<img width="1672" height="581" alt="missing_values_chart" src="https://github.com/user-attachments/assets/9ab73de8-7981-4b9d-9f79-346d1503bd15" />
 
 ## Before vs After Cleaning
 
